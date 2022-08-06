@@ -11,3 +11,4 @@ BASIC PROGRAM
 008	program to check if a given number is prime or not in java
 009	Java Program to print Prime numbers in a given range
 010	Sum of digits of a number using Java
+011	Reverse a given number in Java
