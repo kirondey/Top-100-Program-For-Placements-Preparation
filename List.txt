@@ -12,3 +12,12 @@ BASIC PROGRAM
 009	Java Program to print Prime numbers in a given range
 010	Sum of digits of a number using Java
 011	Reverse a given number in Java
+012	Java Program to find palindrome or not
+013	Armstrong number or not using Java
+014	Armstrong Numbers between Two Intervals using Java
+015	Fibonacci series up to n using Java
+016	Factorial of a Number in Java
+017	Factors of a number using Java
+018	Strong number or not using Java
+019	Perfect Number or Not in Java
+020	Automorphic number or not using Java
