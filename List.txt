@@ -21,3 +21,6 @@ BASIC PROGRAM
 018	Strong number or not using Java
 019	Perfect Number or Not in Java
 020	Automorphic number or not using Java
+021	Harshad number or not using Java
+022	Whether or Not the Number is an Abundant Number in Java Language
+023	Friendly pair or not (amicable or not) using Java
